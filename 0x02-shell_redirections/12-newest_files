@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ptr * | grep -v / | tail -10
+ls -st | head -10
